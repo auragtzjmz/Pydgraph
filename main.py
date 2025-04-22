@@ -67,3 +67,16 @@ if _name_ == '_main_':
         main()
     except Exception as e:
         print(f"Error: {e}")
+
+
+'''
+Conclusion
+This lab was initially a bit challenging to approach due to the 
+complexity of modeling multiple interconnected entities. 
+However, once the graph model was clearly defined and structured, the 
+implementation became much easier. Designing the 
+relationships visually and logically made it easier to translate 
+the model into Dgraph schema and data mutations.
+Overall, it was a great learning experience.
+'''
+
